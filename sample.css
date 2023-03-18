@@ -1,7 +1,9 @@
-.head{
+.style{
     background-color:grey;
-    height:40px;
     text-align:center;
+}
+.head{
+    height:40px;
     padding:20px;
 }
 .navigation{
@@ -26,8 +28,6 @@
     padding-top: 10%;
 }
 .footer{
-    background-color:grey;
     height:35px;
-    text-align:center;
     padding:20px;
 }
