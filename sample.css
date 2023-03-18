@@ -1,0 +1,33 @@
+.head{
+    background-color:grey;
+    height:40px;
+    text-align:center;
+    padding:20px;
+}
+.navigation{
+    background-color:grey;
+    height:30px;
+    text-align:center;
+    padding:10px;
+}
+.content{
+    display: inline-block;
+    height:150px;
+    width:200px;
+    margin: 1%;
+    padding-top: 10%;
+
+}
+.maincontent{
+    display: inline-block;
+    width:700px;
+    height:150px;
+    margin: 1%;
+    padding-top: 10%;
+}
+.footer{
+    background-color:grey;
+    height:35px;
+    text-align:center;
+    padding:20px;
+}
