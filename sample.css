@@ -12,8 +12,6 @@
    padding:1%;
    margin:1%;
    border:1%;
-   
-  
  }
  .content1{
     display:flex;
@@ -25,8 +23,6 @@
    width:11%;
    
  }
- 
-
  .content2{
    background-color: grey;
    text-align: center;
